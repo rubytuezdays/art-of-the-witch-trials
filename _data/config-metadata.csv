@@ -4,8 +4,8 @@ creator,Creator,
 date,Date Created,
 description,Description,
 location,Location
-source,Source
-identifier,Source Identifier,,
+source,Source,,
+identifier,Source Identifier,,true
 type,Type,
 format,Format,
 rights,Rights,
