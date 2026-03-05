@@ -3,7 +3,7 @@ title,Title,
 creator,Creator,
 date,Date Created,
 description,Description,
-location,Location
+location,Location,,true
 source,Source,,true
 identifier,Source Identifier,,
 type,Type,
