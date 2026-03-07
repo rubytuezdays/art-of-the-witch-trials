@@ -2,9 +2,8 @@
     Put your custom SCSS here! 
     This allows you to override any CollectionBuilder or Bootstrap CSS without modifying the base theme files directly.
 */
-@import url('https://fonts.googleapis.com/css2?family=Comic+Neue:wght@700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Lilita+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Uncial+Antiqua&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Texturina:ital,opsz,wght@0,12..72,100..900;1,12..72,100..900&display=swap');
 .h1,h1,.h2,h2,.h3,h3,.h4,h4,.h5,h5{
   font-family: "Uncial Antiqua", system-ui;
   font-weight: 400;
@@ -20,5 +19,5 @@ body {
     background-color: #46374b
 }
 .card {
-    background-color: #d0b88d
+    background-color: #fceccf
 }
