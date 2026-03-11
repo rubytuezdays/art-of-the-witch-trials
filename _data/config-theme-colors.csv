@@ -2,8 +2,8 @@ color_class,color
 primary, #4a3126
 secondary, #5f4032
 success, #3a241c
-info, #5f4032
-warning, #5f4032
-danger, #5f4032
-light, #5f4032
+info, 
+warning, 
+danger, 
+light, 
 dark, #a88458
