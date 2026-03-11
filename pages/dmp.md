@@ -1,5 +1,8 @@
-**Project Title – Project Subtitle**
-
+---
+title: Data Management Plan
+layout: page-narrow
+permalink: /dmp.html
+---
 **Data Management Plan**
 
 **Project Description**
