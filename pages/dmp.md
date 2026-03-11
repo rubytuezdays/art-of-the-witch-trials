@@ -26,7 +26,7 @@ The data dictionary is included at the end of this plan, and the data for every 
 
 **Storage and Backup**
 
-The data for this project is primarily stored on GitHub, with one copy of each existing on a personal device that has them stored with Google Drive, and automatically backed up into the cloud. 
+The data for this project is all stored on GitHub, with one copy of the metadata and the images folder existing on a personal device that has them stored with Google Drive, and automatically backed up into The Cloud. While the original CollectionBuilder sheets template was needed for creation, the metadata is now derived from a file within the repository. 
 
 **Data Sharing**
 
